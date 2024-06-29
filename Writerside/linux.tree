@@ -15,7 +15,7 @@
         <toc-element topic="04-Linux进程管理.md"/>
         <toc-element topic="05-Linux文本三剑客.md"/>
     </toc-element>
-    <toc-element topic="02-Linux常用服务.topic">
+    <toc-element topic="02-Linux常用服务.md">
         <toc-element topic="06-Linux安装docker.md"/>
         <toc-element topic="07-Linux安装Anaconda.md"/>
         <toc-element topic="08-Docker安装MySQL.md"/>

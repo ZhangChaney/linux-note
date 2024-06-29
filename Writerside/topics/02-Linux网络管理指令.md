@@ -1,4 +1,4 @@
-# 02-Linux网络管理指令
+# 1.2-Linux网络管理指令
 
 ## 1. ifconfig
 
